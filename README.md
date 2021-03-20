@@ -17,7 +17,7 @@ saídas e usar como base de consulta de transações, assim consultando o total 
 
 <h2>📼 Prévia</h2>
 <h1 align="center">
-  <img src="https://github.com/whyandree/go_finances/blob/master/src/assets/preview/gofinances_preview.gif" alt="go finances"/>
+  <img src="https://github.com/whyandree/go_finances/blob/master/public/preview/gofinances_preview.gif" alt="go finances prévia"/>
 </h1>
 
 
