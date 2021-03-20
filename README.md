@@ -13,8 +13,6 @@
 <i>Go_finances</i> é uma aplicação para controle de rendas e gastos pessoais. Podemos adicionar entradas e
 saídas e usar como base de consulta de transações, assim consultando o total de renda disponível.
 
-<br/>
-
 <h2>📼 Prévia</h2>
 <h1 align="center">
   <img src="https://github.com/whyandree/go_finances/blob/master/public/preview/gofinances_preview.gif" alt="go finances prévia"/>
