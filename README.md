@@ -14,9 +14,9 @@
 saídas e usar como base de consulta de transações, assim consultando o total de renda disponível.
 
 <h2>📼 Prévia</h2>
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/whyandree/go_finances/blob/master/public/preview/gofinances_preview.gif" alt="go finances prévia"/>
-</h1>
+</p>
 
 
 <h2>🔧 Ferramentas utilizadas</h2>
