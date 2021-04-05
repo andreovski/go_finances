@@ -37,5 +37,5 @@ export function TransactionsTable() {
         </tbody>
       </table>
     </Container>
-  )
+  );
 }

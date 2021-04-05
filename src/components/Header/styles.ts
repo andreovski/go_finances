@@ -14,11 +14,12 @@ export const Content = styled.div`
   justify-content: space-between;
 
   button {
+    margin-left: 2rem;
     height: 3rem;
 
     font-size: 1rem;
     color: #FFF;
-    background: var(--blue-light);
+    background: var(--blue_light);
 
     border: 0;
     padding: 0 2rem;
@@ -32,3 +33,20 @@ export const Content = styled.div`
     }
   }
 `;
+
+export const DarkModeIcon = styled.img`
+  width: 18px;
+  height: 18px;
+
+  margin-left: 4px;
+  margin-top: 3px;
+`
+
+export const LightModeIcon = styled.img`
+  width: 18px;
+  height: 18px;
+
+  margin-left: 5px;
+  margin-top: 3px;
+`
+
