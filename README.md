@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/whyandree/go_finances/blob/master/src/assets/logo.svg" alt="go finances" width="300px"/>
-</h1>
+</p>
 
 <p align="center">
   #Ignite 🚀 Rocketseat
@@ -13,12 +13,10 @@
 <i>Go_finances</i> é uma aplicação para controle de rendas e gastos pessoais. Podemos adicionar entradas e
 saídas e usar como base de consulta de transações, assim consultando o total de renda disponível.
 
-<br/>
-
 <h2>📼 Prévia</h2>
-<h1 align="center">
-  <img src="https://github.com/whyandree/go_finances/blob/master/src/assets/preview/gofinances_preview.gif" alt="go finances"/>
-</h1>
+<p align="center">
+  <img src="https://github.com/whyandree/go_finances/blob/master/public/preview/gofinances_preview.gif" alt="go finances prévia"/>
+</p>
 
 
 <h2>🔧 Ferramentas utilizadas</h2>
