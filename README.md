@@ -56,5 +56,5 @@ Para o desenvolvimento do projeto, foram utilizados as principais ferramentas:
 E pronto, já é possivel vizualizar a aplicação.
 <hr>
 <h4 align="center">
-    Feito com 💜 by <a href="https://www.linkedin.com/in/andreluizx/" target="_blank">André Luiz</a>
+    Feito com 💜 by <a href="https://www.linkedin.com/in/andreovski/" target="_blank">André Luiz</a>
 </h4>
